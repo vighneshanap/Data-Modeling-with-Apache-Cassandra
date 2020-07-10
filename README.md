@@ -1,5 +1,6 @@
 # Data Modeling with Apache Cassandra
 # Part I. ETL Pipeline for Pre-Processing the Files
+Processing the files to create the data file csv that will be used for Apache Casssandra tables
 
 # Part II. Apache Cassandra coding.
 Check out the CSV file titled <font color=red>event_datafile_new.csv</font>, located within the Workspace directory to work. The event_datafile_new.csv contains the following columns:
